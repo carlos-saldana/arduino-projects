@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RobotCar</string>
+    <string name="carro_a_control_remoto">CARRO A CONTROL REMOTO</string>
+    <string name="modo_aut_nomo">MODO AUTÓNOMO</string>
+    <string name="desactivar_modo_aut_nomo">DESACTIVAR MODO AUTÓNOMO</string>
+    <string name="strcontent">Imagen</string>
+
+</resources>
